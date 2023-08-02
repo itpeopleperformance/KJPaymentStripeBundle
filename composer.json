@@ -19,7 +19,7 @@
     },
     "require-dev": {
         "symfony/browser-kit": "*",
-        "symfony/finder": "*
+        "symfony/finder": "*"
     },
     "autoload": {
         "psr-0": { "KJ\\Payment\\StripeBundle": "" }
