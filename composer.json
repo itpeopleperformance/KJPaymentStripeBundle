@@ -14,8 +14,8 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "jms/payment-core-bundle": "*",
-        "stripe/stripe-php": "*"
+        "jms/payment-core-bundle": "1.4.1",
+        "stripe/stripe-php": "1.1.1"
     },
     "require-dev": {
         "symfony/browser-kit": "*",
