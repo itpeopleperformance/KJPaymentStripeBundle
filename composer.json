@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "jms/payment-core-bundle": "*",
+        "jms/payment-core-bundle": "dev-master",
         "stripe/stripe-php": "*"
     },
     "require-dev": {
