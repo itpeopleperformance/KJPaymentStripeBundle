@@ -1,5 +1,5 @@
 {
-    "name": "itpeopleperformance/kj-payment-stripe-bundle",
+    "name": "itpeopleperformance/kj-payment-stripe-bundle-2",
     "type": "symfony-bundle",
     "description": "Payment Bundle providing access to the Stripe API",
     "keywords": ["stripe", "payment", "Symfony2"],
