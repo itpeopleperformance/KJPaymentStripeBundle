@@ -15,7 +15,8 @@
     "require": {
         "php": ">=7.3",
         "jms/payment-core-bundle": "*",
-        "stripe/stripe-php": "*"
+        "stripe/stripe-php": "*",
+         "ext-mcrypt": "*"
     },
     "require-dev": {
         "symfony/browser-kit": "*",
