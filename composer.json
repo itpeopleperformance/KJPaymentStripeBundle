@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.3",
-        "jms/payment-core-bundle": "*",
+        "jms/payment-core-bundle": "1.*",
         "stripe/stripe-php": "*",
          "ext-mcrypt": "*"
     },
