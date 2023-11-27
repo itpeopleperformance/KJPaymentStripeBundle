@@ -17,7 +17,8 @@
         "jms/payment-core-bundle": "^1.0",
         "stripe/stripe-php": "*",
          "ext-mcrypt": "*",
-        "symfony/options-resolver": "^2.3"
+        "symfony/options-resolver": "^2.3",
+        "paragonie/random_compat": "~1.4"
     },
     "require-dev": {
         "symfony/browser-kit": "*",
