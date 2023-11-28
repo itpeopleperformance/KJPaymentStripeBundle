@@ -14,11 +14,11 @@
     ],
     "require": {
         "php": ">=7.3",
-        "jms/payment-core-bundle": "^1.0",
+        "jms/payment-core-bundle": "1.4.1",
         "stripe/stripe-php": "*",
          "ext-mcrypt": "*",
         "paragonie/random_compat": "2.*",
-        "symfony/options-resolver": "~2.0"
+        "symfony/options-resolver": " >=2.3 <5.0"
     },
     "require-dev": {
         "symfony/browser-kit": "*",
