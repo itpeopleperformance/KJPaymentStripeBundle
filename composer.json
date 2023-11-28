@@ -19,7 +19,8 @@
          "ext-mcrypt": "*",
         "paragonie/random_compat": "2.*",
         "symfony/options-resolver": " >=2.3 <5.0",
-        "doctrine/common": "^2.3"
+          "doctrine/lexer": "^1.0",
+        "doctrine/common": "^2.9"
     },
     "require-dev": {
         "symfony/browser-kit": "*",
