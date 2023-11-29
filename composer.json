@@ -18,7 +18,7 @@
         "stripe/stripe-php": "*",
         "ext-mcrypt": "*",
         "symfony/options-resolver": ">=2.3 <5.0",
-        "paragonie/random_compat": "^1 || ^2 || ^9"
+        "paragonie/random_compat": "^1 || ^2"
     },
     "require-dev": {
         "symfony/browser-kit": "*",
