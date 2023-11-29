@@ -16,7 +16,7 @@
         "php": ">=7.3",
         "ezsystems/payment-core-bundle": "1.4.1",
         "stripe/stripe-php": "*",
-        "doctrine/common": "2.3.0",
+        "doctrine/common": "2.3.0"
     },
     "require-dev": {
         "symfony/browser-kit": "*",
