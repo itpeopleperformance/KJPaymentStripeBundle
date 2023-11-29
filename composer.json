@@ -14,9 +14,8 @@
     ],
     "require": {
         "php": ">=7.3",
-        "paymentsuite/payment-core-bundle": "4.2.0",
-        "stripe/stripe-php": "*",
-        "doctrine/common": "^3.0.3"
+        "jms/payment-core-bundle":"1.4.1",
+        "stripe/stripe-php": "*"    
     },
     "require-dev": {
         "symfony/browser-kit": "*",
