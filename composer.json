@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.3",
-        "ezsystems/payment-core-bundle": "1.4.1",
+        "paymentsuite/payment-core-bundle": "4.2.0",
         "stripe/stripe-php": "*",
         "doctrine/common": "^3.0.3"
     },
