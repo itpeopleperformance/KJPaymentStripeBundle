@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.3",
-        "ezsystems/payment-core-bundle": "3.0.2",
+        "ezsystems/payment-core-bundle": "1.4.1",
         "stripe/stripe-php": "*",
         "ext-mcrypt": "*",
         "paragonie/random_compat": "2.*",
