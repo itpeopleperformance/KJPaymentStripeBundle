@@ -14,9 +14,15 @@
     ],
     "require": {
         "php": ">=7.3",
-        "jms/payment-core-bundle":"1.4.1",
+        "jms/payment-core-bundle-2": "dev-master",
         "stripe/stripe-php": "*"    
     },
+     "repositories": [      
+        {
+            "type": "vcs",
+            "url": "https://github.com/itpeopleperformance/JMSPaymentCoreBundle"
+        }
+    ],
     "require-dev": {
         "symfony/browser-kit": "*",
         "symfony/finder": "*"
